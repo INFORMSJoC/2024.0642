@@ -6,6 +6,8 @@ If you use the material of this repository, please consider citing our paper.
 The repository includes the source C++ code of the algorithm, directory [src](src/), the complete results of the paper experiments, directory [results](results/), and a `Makefile` in the root directory.
 The repository also includes a Linux executable file in the directory [bin](bin/).
 
+All the instances we generated for the paper experiments are available at [instances](https://www.dropbox.com/scl/fo/e9y2yb1h09r7ygv32luia/ACa-Lhzjmpti8UIAwbSrj3c?rlkey=d3t016b3jagfmazv1ij6zo05e&st=o4vb12o3&dl=0).
+
 The directory [cfgs](cfgs/) contains the configuration files to pass as second argument to the command line program.
 The directory contains the program configuration files required to replicate the paper experiments.
 
