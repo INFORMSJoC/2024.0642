@@ -48,6 +48,7 @@ Compilation and sample instance solution tests have been run also on a machine r
 ## Contacts
 For questions on this repository, [send us an email](mailto:roberto.bargetto@polito.it?cc=roberto.bargetto@gmail.com;rosario.scatamacchia@polito.it;federico.dellacroce@polito.it&subject=IIO%20Repo%20-%20Question).
 
+Code main developer's [GitHub](https://github.com/robertobarg) account.
 
 ## License
 Repository license file [LICENSE](LICENSE).
