@@ -34,7 +34,8 @@ Below is the BibTex for citing this snapshot of the repository.
 ```
 
 ## Description
-This software provides the implementation of a new exact algorithm for solving the transportation problem.
+This software provides the implementation of Iterated Inside Out, a new exact algorithm for solving the transportation problem.
+The software also implements the [shielding method](https://doi.org/10.1007/s10851-016-0653-9) by B. Schmitzer and a standard transportation simplex.
 
 
 ## Content of the repository
