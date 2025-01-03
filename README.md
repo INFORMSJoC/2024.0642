@@ -1,8 +1,40 @@
-Iterated Inside Out Algorithm
-=============================
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-This repository provides the original implementation of the Iterated Inside Out (IIO) algorithm as described in the paper [Iterated Inside Out: a new exact algorithm for the transportation problem](https://pubsonline.informs.org/journal/IJOC).
-If you use the material of this repository, please consider citing our paper.
+
+#Iterated Inside Out Algorithm
+
+This archive is distributed in association with the [INFORMS Journal on
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [CC BY-NC-SA 4.0 License](LICENSE).
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper [Iterated Inside Out: a new exact algorithm for the transportation problem](https://doi.org/10.1287/ijoc.2024.0642) by R. Bargetto, F. Della Croce, and R. Scatamacchia.
+
+The snapshot is based on this [GitHub repository](https://github.com/robertobarg/IteratedInsideOut).
+
+
+## Cite
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
+https://doi.org/10.1287/ijoc.2024.0642
+
+https://doi.org/10.1287/ijoc.2024.0642.cd
+
+Below is the BibTex for citing this snapshot of the repository.
+
+```
+@misc{iio2024,
+  author =        {Roberto Bargetto and Federico Della Croce and Rosario Scatamacchia},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {Iterated Inside Out: a new exact algorithm for the transportation problem},
+  year =          {2024},
+  doi =           {10.1287/ijoc.2024.0642.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0642},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0642},
+}
+```
+
+## Description
+This software provides the implementation of a new exact algorithm for solving the transportation problem.
 
 
 ## Content of the repository
@@ -13,6 +45,7 @@ This repository includes
 * the program configuration files to replicate the paper experiments, directory [cfgs](cfgs/),
 * an SQL script for creating a relational database of the optimization results, directory [sql](sql/), and
 * a [makefile](Makefile) to compile the C++ code and generate the executable file.
+
 
 ## Problem instances
 All the instances we generated for the paper experiments are available at this [link](https://www.dropbox.com/scl/fo/e9y2yb1h09r7ygv32luia/ACa-Lhzjmpti8UIAwbSrj3c?rlkey=d3t016b3jagfmazv1ij6zo05e&st=o4vb12o3&dl=0).
@@ -45,10 +78,16 @@ Comments in the SQL file [sql/result.sql](sql/result.sql) describe the space-sep
 
 Compilation and sample instance solution tests have been run also on a machine running Windows operating system.
 
-## Contacts
-For questions on this repository, [send us an email](mailto:roberto.bargetto@polito.it?cc=roberto.bargetto@gmail.com;rosario.scatamacchia@polito.it;federico.dellacroce@polito.it&subject=IIO%20Repo%20-%20Question).
 
-Source code main developer's [GitHub](https://github.com/robertobarg) account.
+## Ongoing development and support
+This code is being developed on an on-going basis.
+You may want to checkout the code main developer's [GitHub site](https://github.com/robertobarg).
+
+For support in using this software, submit an
+[issue](https://github.com/robertobarg/IteratedInsideOut/issues/new).
+
+To be in touch, [send us an email](mailto:roberto.bargetto@polito.it?cc=roberto.bargetto@gmail.com;rosario.scatamacchia@polito.it;federico.dellacroce@polito.it&subject=IIO%20Repo%20-%20Question).
+
 
 ## License
 Repository license file [LICENSE](LICENSE).
