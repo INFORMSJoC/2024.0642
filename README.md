@@ -86,7 +86,7 @@ You may want to checkout the code main developer's [GitHub site](https://github.
 For support in using this software, submit an
 [issue](https://github.com/robertobarg/IteratedInsideOut/issues/new).
 
-To be in touch, [send us an email](mailto:roberto.bargetto@polito.it?cc=roberto.bargetto@gmail.com;rosario.scatamacchia@polito.it;federico.dellacroce@polito.it&subject=IIO%20Repo%20-%20Question).
+To be in touch, [send us an email](mailto:roberto.bargetto@polito.it;federico.dellacroce@polito.it;rosario.scatamacchia@polito.it?cc=roberto.bargetto@gmail.com&subject=IIO%20Repo%20-%20Question).
 
 
 ## License
