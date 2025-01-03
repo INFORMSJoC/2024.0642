@@ -35,7 +35,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 This software provides the implementation of Iterated Inside Out, a new exact algorithm for solving the transportation problem.
-The software also implements the [shielding method](https://doi.org/10.1007/s10851-016-0653-9) by B. Schmitzer and a standard transportation simplex.
+The software also implements the [Shielding Method](https://doi.org/10.1007/s10851-016-0653-9) by B. Schmitzer and a standard transportation simplex.
 
 
 ## Content of the repository
@@ -81,8 +81,8 @@ Compilation and sample instance solution tests have been run also on a machine r
 
 
 ## Ongoing development and support
-This code is being developed on an on-going basis.
-You may want to checkout the code main developer's [GitHub site](https://github.com/robertobarg).
+This code is being developed on an ongoing basis.
+You may want to check out the code main developer's [GitHub site](https://github.com/robertobarg).
 
 For support in using this software, submit an
 [issue](https://github.com/robertobarg/IteratedInsideOut/issues/new).
